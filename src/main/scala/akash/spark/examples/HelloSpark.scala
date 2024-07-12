@@ -18,7 +18,7 @@ object HelloSpark extends Serializable {
     }
 
     /*Creating a spark session, spark session is a singleton class. so each program can have only one active session. spark session is a driver*/
-    logger.info("mahavir-test Branch rebase test 3108")
+    logger.info("mahavir-test Branch rebase test 3107")
     logger.info("mahavir-test Branch merge test")
     logger.info("Starting Hello Spark11")
     logger.info("First Merge mahavir-test1 done")
