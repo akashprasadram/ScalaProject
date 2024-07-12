@@ -20,6 +20,7 @@ object HelloSpark extends Serializable {
     /*Creating a spark session, spark session is a singleton class. so each program can have only one active session. spark session is a driver*/
 
     logger.info("Starting Hello Spark111")
+    logger.info("Starting Hello Spark application started.....")
     val spark=SparkSession.builder()
       //.appName("Hello Spark")
      // .master("local[3]")
