@@ -16,7 +16,7 @@ object HelloSpark extends Serializable {
       logger.error("Usage: HelloSpark filename")
       System.exit(1)
     }
-  print("testing ")
+  print("testing commit from mahavir-test")
     /*Creating a spark session, spark session is a singleton class. so each program can have only one active session. spark session is a driver*/
     logger.info("mahavir-test Branch rebase ------------------- test 3108")
     logger.info("mahavir-test Branch rebase test 3107")
