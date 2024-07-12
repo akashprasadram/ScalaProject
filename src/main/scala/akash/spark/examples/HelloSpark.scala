@@ -41,6 +41,7 @@ object HelloSpark extends Serializable {
 
     //Stopping the driver
     logger.info("Finished Hello Spark")
+    logger.info("Finished Hello Spark ended........")
 
     scala.io.StdIn.readLine()
     spark.stop()
